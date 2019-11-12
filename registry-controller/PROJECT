@@ -1,0 +1,7 @@
+version: "2"
+domain: spring.io
+repo: github.com/spring-cloud/spring-cloud-kubernetes/registry-controller
+resources:
+- group: cloud
+  version: v1beta1
+  kind: Registration
