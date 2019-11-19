@@ -1,0 +1,7 @@
+apiVersion: cloud.spring.io/v1beta1
+kind: Registration
+metadata:
+  name: registration-sample
+spec:
+  # Add fields here
+  foo: bar
